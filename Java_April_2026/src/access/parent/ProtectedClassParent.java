@@ -11,6 +11,7 @@ protected void parentMethod()
 		// TODO Auto-generated method stub
 		ProtectedClassParent p=new ProtectedClassParent();
 		p.parentMethod();
+		System.out.println("This is end of Parent class");
 
 	}
 
