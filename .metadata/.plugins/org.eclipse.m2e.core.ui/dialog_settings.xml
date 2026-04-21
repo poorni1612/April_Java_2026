@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\meetp\eclipse-workspace\first.Maven.project\src\test\java\first\Maven\project\First_Selenium.java"/>
 			<item value="C:\Users\meetp\eclipse-workspace\firstmaven\src\test\java\firstmaven\firstSelenium.java"/>
 			<item value="C:\Users\meetp\eclipse-workspace\SDET"/>
 			<item value="C:\Users\meetp\eclipse-workspace\First\src\HelloWorld.java"/>
@@ -47,11 +48,21 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="JuiceShop"/>
+			<item value="testingAutomation.com"/>
+			<item value="StackDemo.com"/>
+			<item value="bstackdemo.com"/>
+			<item value="first.Maven.project"/>
 			<item value="DS_AlgoprojectPrep"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="JuiceShop"/>
+			<item value="testingAutomation.com"/>
+			<item value="StackDemo.com"/>
+			<item value="StachDemo"/>
+			<item value="first.Maven.project"/>
 			<item value="ProjectPrep"/>
 		</list>
 		<list key="projectNameTemplate">
